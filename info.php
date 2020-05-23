@@ -25,7 +25,7 @@
 
 
 <div class="container-fluid" id="header">
-  <h1>Thank you <?php echo $fname; ?>!</h1>
+  <h1>Thank you <?php echo $fname; ?> <?php echo $lname; ?>!</h1>
 </div>
 
 <div class="container-fluid" id="intructions">
